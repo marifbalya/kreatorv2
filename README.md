@@ -1,2 +1,14 @@
-# kreatorv2
-KreatorAI adalah aplikasi all-in-one untuk bikin konten AI seperti gambar, video, chatbot, suara, dan model 3D. Cukup masukkan ide, dan AI bantu kamu wujudkan konten menarik, cepat, dan siap viral. Cocok untuk kreator, bisnis online, guru, hingga pelajar.
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`

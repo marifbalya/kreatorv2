@@ -1,0 +1,8 @@
+{
+  "name": "FINAAL V1",
+  "description": "KreatorAI: Asisten AI Anda untuk membuat gambar, video, model 3D, menganalisa gambar, dan chatbot pendukung konten.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
